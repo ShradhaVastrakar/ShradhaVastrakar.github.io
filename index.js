@@ -45,11 +45,11 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/file/d/1OB0qP9KnaMW0s2atihiT2YVnZTXyt1fg/view?usp=share_link");
+window.open("./images/Shradha_Vastrakar_Resume.pdf");
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-    window.open("https://drive.google.com/file/d/1OB0qP9KnaMW0s2atihiT2YVnZTXyt1fg/view?usp=share_link");
+    window.open("./images/Shradha_Vastrakar_Resume.pdf");
   }
      
   
