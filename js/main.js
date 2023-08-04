@@ -214,9 +214,9 @@ themeButton.addEventListener('click', () => {
 // resume btns fucntion
 
 document.getElementById("resume-button-1").onclick = () => {
-    window.open("https://drive.google.com/file/d/1NPdI4VdheQ3tfCpshVEpxkIerQvLAfck/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1k735WndZ9KcwrcACRhlpCs2PRi-D6-UL/view?usp=sharing");
 }
 
 document.getElementById("resume-button-2").onclick = () => {
-    window.open("https://drive.google.com/file/d/1NPdI4VdheQ3tfCpshVEpxkIerQvLAfck/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1k735WndZ9KcwrcACRhlpCs2PRi-D6-UL/view?usp=sharing");
 }
